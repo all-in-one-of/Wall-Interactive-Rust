@@ -12,6 +12,8 @@ bin/
 # OSX
 # =========================
 
+backup/
+
 .DS_Store
 .AppleDouble
 .LSOverride
