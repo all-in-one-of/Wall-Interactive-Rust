@@ -1,6 +1,7 @@
 screens/
 previews/
 localStuff/
+movies/*.mov
 # .v4p backup files
 *~.xml
 
